@@ -1,0 +1,2 @@
+para compilar basta rodar o comando make compile
+e para debuggar usando gdb+qemu basta rodar o comando make debug 
